@@ -1,0 +1,7 @@
+cn\com\springtest\service\UserService.class
+cn\com\springtest\aop\LogResultAdvice.class
+cn\com\springtest\aop\LogArgsAdvice.class
+cn\com\springtest\Demo.class
+cn\com\springtest\service\impl\UserServiceimpl.class
+cn\com\springtest\domain\User.class
+cn\com\springtest\ServiceTest.class
